@@ -7,7 +7,7 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 22
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -26,11 +26,13 @@ date_format = "January 2006"
   date_start = "2016-10-26"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Serum RNA-seq analyses
-  * Bioinformatics pipeline development
-  * HPV systems
+  * Analysis of serum RNA profiles using RNA sequencing
+  * Investigating prediagnostic serum samples for cancer footprints
+  * Prediction of carcinogenesis using machine learning models
+  * Developing bioinformatics pipelines using Snakemake
+  * Variant calling in HPV genomes
+  * Building AI models for miRNA prediction
+  * Prediction of RNA-RNA interactions
   """
 
 [[experience]]
@@ -40,7 +42,18 @@ date_format = "January 2006"
   location = "Christchurch"
   date_start = "2012-11-07"
   date_end = "2016-08-16"
-  description = """I was a PhD candidate under supervision of Paul P. Gardner and Anthony M. Poole."""
+  description = """
+* Prokaryotic genome annotation
+* Non-coding RNA annotation
+* DNA (Illumina, Pacbio, Nanopore) and RNA sequencing (Illumina)
+* Prediction and benchmarking of RNA-RNA interactions
+* Investigation of prokaryotic RNA interactions
+* Building parallel programming interfaces
+* Modelling protein production in prokaryotes
+* Avoidance hypothesis
+"""
+
+
 
 
 [[experience]]
@@ -51,12 +64,11 @@ date_format = "January 2006"
   date_start = "2006-08-15"
   date_end = "2012-10-29"
   description = """
-  Responsibilities include:
-
-  * IT responsibilities
-  * Web design
-  * Network administrator
-  """
+* Network security
+* Database management
+* Web servers maintenance
+* Linux server deployment
+"""
 
 
 

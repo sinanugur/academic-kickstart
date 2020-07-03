@@ -25,19 +25,26 @@ weight = 30
   icon = "r-project"
   icon_pack = "fab"
   name = "R-cran"
-  description = "For daily statistics and modelling.\nI mostly use functional programming and tidyverse syntax."
+  description = "(tidyverse syntax, ggplot, caret, Rmarkdown, shiny apps, functional programming, parallelization)"
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "For pipelines and tools required in bioinformatics.\nI use <b>snakemake</b> to generate re-usable pipelines."
+  description = "(biopython, numpy, scipy, Snakemake, parallel python, pandas, flask)"
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "I use Bash for other scripting requirements."
+  description = "(shell scripting, HPC systems)"
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Data Science"
+  description = "(Keras framework, h2o, SQL, machine learning)"
+
  
 
 +++
